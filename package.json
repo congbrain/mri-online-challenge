@@ -10,7 +10,6 @@
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
     "@types/enzyme": "^3.10.5",
-    "@types/enzyme-adapter-react-16": "^1.0.6",
     "@types/jest": "^26.0.23",
     "@types/node": "^12.20.12",
     "@types/react": "^17.0.5",
@@ -55,7 +54,6 @@
     "@types/classnames": "^2.2.11",
     "@types/yup": "^0.29.11",
     "enzyme": "^3.11.0",
-    "enzyme-adapter-react-16": "^1.15.2",
     "enzyme-to-json": "^3.5.0",
     "mutationobserver-shim": "^0.3.7",
     "react-test-renderer": "^16.13.1"
